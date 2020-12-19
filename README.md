@@ -1,2 +1,3 @@
-# astr_119_final_project_3
-ASTR 119 Final Project Option #3 Astronomical Source Detection 
+# Astronomical Source Detection
+- Using SEP (Python library for Source Extraction and Photometry) to detect objects in an image and perform some basic aperture photometry.
+- Applied to band image of Hubble Ultra Deep Field
